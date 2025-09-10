@@ -19,3 +19,24 @@ El sistema permitirá controlar productos, registrar transacciones, emitir repor
 ---
 
 ## 📂 Estructura del Proyecto  
+```bash
+public/
+sistema-web-venta-calzado/
+├── config/
+├── controllers/
+├── models/
+├── routes/
+├── middlewares/
+└── app.js
+
+index.html
+styles.css
+main.js
+
+.env.example
+.gitignore
+README.md
+package.json
+docker-compose.yml
+```
+
