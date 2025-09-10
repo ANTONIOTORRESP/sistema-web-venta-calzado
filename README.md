@@ -53,6 +53,53 @@ docker-compose.yml
    git clone https://github.com/usuario/proyecto-calzado.git
    cd proyecto-calzado
    ```
+## 👥 Equipo de Desarrollo  
+
+A continuación se presentan los integrantes del equipo que colaboran en el desarrollo del proyecto **Sistema Web de Gestión de Venta de Calzado para la empresa PEPE S.A.**:  
+
+### 👨‍💻 1. Yeisax Nefi Poma Guarachi  
+- **Rol:** Programador Backend  
+- **Responsabilidades:** Desarrollo de la lógica del servidor, configuración de rutas y controladores, conexión con la base de datos.  
+- **Stack favorito:** Node.js, Express, MySQL  
+
+---
+
+### 👨‍💻 2. Luis Fernando Mamani Choque  
+- **Rol:** Diseñador Frontend  
+- **Responsabilidades:** Maquetación de interfaces, diseño responsivo y experiencia de usuario.  
+- **Stack favorito:** HTML5, CSS3, Figma  
+
+---
+
+### 👨‍💻 3. Alan Miguel Quispe Mamani  
+- **Rol:** Analista de Requerimientos  
+- **Responsabilidades:** Documentación, levantamiento de requisitos, coordinación con el cliente.  
+- **Stack favorito:** SCRUM, UML, documentación técnica  
+
+---
+
+### 👨‍💻 4. Jose Alberto Ramos Ticona  
+- **Rol:** Administrador de Base de Datos  
+- **Responsabilidades:** Diseño, normalización y mantenimiento de la base de datos.  
+- **Stack favorito:** MySQL, SQL Workbench  
+
+---
+
+### 👨‍💻 5. Antonio Torres Pajsi  
+- **Rol:** Programador Full Stack  
+- **Responsabilidades:** Configuración del entorno de desarrollo, integración frontend-backend, gestión del repositorio.  
+- **Stack favorito:** Node.js, Express, HTML, CSS, GitHub  
+
+---
+
+### 👩‍🏫 6. M. Sc. Lic. Carmen Rosa Mollinedo Laura  
+- **Rol:** Docente / Asesora  
+- **Responsabilidades:** Supervisión académica, guía metodológica y validación del proyecto.  
+- **Especialidad:** Administración de Proyectos, Ingeniería de Sistemas  
+
+---
+
+
 
 
 
